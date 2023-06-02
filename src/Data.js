@@ -1,6 +1,6 @@
-import Mountain from "./images/mountain.jpeg";
-import Bridge from "./images/bridge.jpeg";
-import River from "./images/river.jpeg";
+import Mountain from "./images/Mountain.png";
+import Bridge from "./images/Bridge.png";
+import River from "./images/River.png";
 
 export default [
     {
